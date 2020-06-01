@@ -1,2 +1,4 @@
 # Игнорировать файл c TOKEN
 /config/default.json
+/config/.DS_Store
+.DS_Store
